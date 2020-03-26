@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: gnw-cloud-provider-dev
+server:
+  port: 8770
