@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: gnw-cloud-config-test
+server:
+  port: 9720

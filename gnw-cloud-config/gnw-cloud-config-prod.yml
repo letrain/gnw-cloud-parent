@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: gnw-cloud-config-prod
+server:
+  port: 9730

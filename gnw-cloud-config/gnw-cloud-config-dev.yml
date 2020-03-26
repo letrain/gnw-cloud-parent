@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: gnw-cloud-config-dev
+server:
+  port: 9710
