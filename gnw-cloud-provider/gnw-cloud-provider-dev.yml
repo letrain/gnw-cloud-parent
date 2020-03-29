@@ -18,4 +18,4 @@ eureka:
     prefer-ip-address: true
     # 2.0版本以上的要改成 ip-address   以下的是 ipAddress
     instance-id: ${spring.cloud.client.ip-address}:${server.port}
-oui: hwj5555
+oui: hwj6666
