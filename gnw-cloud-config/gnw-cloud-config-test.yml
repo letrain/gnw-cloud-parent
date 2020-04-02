@@ -1,5 +1,10 @@
 spring:
   application:
     name: gnw-cloud-config-test
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: letrain
+    password: 123456
 server:
   port: 9720
